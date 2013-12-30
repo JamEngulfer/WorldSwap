@@ -1,0 +1,12 @@
+name: WorldSwap
+main: com.jamengulfer.worldswap.WorldSwap
+version: 0.1
+commands:
+   tpme:
+      description: Swaps world
+      permission: worldswap.tpme
+      usage: To teleport type /tpme
+   worldswap:
+      description: Handles starting and stopping swaps
+      permission: worldswap.swap
+      usage: To use, type /worldswap [start/stop]

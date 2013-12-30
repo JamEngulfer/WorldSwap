@@ -1,0 +1,8 @@
+#Time between swaps measured in seconds
+swapwait: 300
+
+#Pre-loading chunks (experimental) - This pre-loads the chunks before players teleport in order to make it more seamless
+preload: true
+
+#Pre-load radius - the radius of chunks to pre-load
+chunkradius: 3
